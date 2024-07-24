@@ -119,8 +119,6 @@ public class A_Task {public static void main(String[] args) throws InterruptedEx
 	
 	String errormsg5 = driver.findElement(By.xpath("//div[@id='invalid-cvv']")).getText();
 	System.out.println(errormsg5);
-	System.out.println(errormsg5);
-	System.out.println(errormsg5);
 	
 	
 		
